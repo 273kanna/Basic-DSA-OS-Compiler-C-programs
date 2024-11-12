@@ -24,7 +24,7 @@ void main(){
                 i=12;
                 while(line[i]!='$')
                 {
-                    if(line[i]!='^')
+                    if(line[i]!='^');
                 }
 
             }
